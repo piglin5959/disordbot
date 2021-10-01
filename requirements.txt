@@ -1,0 +1,17 @@
+discord.py
+asyncio
+random
+string
+discord
+asyncio
+random
+string
+bs4
+BeautifulSoup
+requests
+urllib
+time
+datetime
+os
+json
+os.path   
