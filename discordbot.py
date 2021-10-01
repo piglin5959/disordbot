@@ -36,15 +36,9 @@ client = commands.Bot(command_prefix=[접두], intents=intents)
 
 #token = 
 
-token = 'ODcxMzQzNTI4ODIxNzg0NjQ2.YQZ75g.oifySG3iUFAWfJZLvHmj-kmh1Zk'
-
 admin = [760688241447141395, 824243275975360562]
 
 piglin = 824243275975360562
-
-피글린 = client.get_user(824243275975360562)
-
-print(피글린)
 
 뮤트 = []
 
